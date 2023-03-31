@@ -1,0 +1,3 @@
+Interfaces -> duck typing
+
+Typescript -> Sí que podemos utilizar las interfaces
